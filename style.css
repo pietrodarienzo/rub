@@ -1,0 +1,20 @@
+ 
+ <body> 
+{
+    color: black;
+}
+ 
+ body {
+ display:block 
+ margin:8px; 
+ color:purple;
+ header{
+ border-bottom: solid 2px purple
+ padding 20px; 
+ font-size:32px;
+ color: green
+ 
+ 
+ }
+
+ }
